@@ -1,0 +1,23 @@
+[33mcommit 2e1c99d2ecdff87f50f328a3f16a8900d9d1a70f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnewbranc[m[33m)[m
+Author: pravin <psshirwadkar@gmail.com>
+Date:   Sun Oct 13 17:52:44 2024 +0530
+
+    file 3 commited
+
+[33mcommit caae1681f273a8a6526a7913ea9d23e36865e3bc[m
+Author: pravin <psshirwadkar@gmail.com>
+Date:   Sun Oct 13 17:50:47 2024 +0530
+
+    file2 commited
+
+[33mcommit 773b5945f544aac3c75c4b8f6c6d7812d28d168b[m[33m ([m[1;31morigin/newbranc[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: pravin <psshirwadkar@gmail.com>
+Date:   Sun Oct 13 17:38:33 2024 +0530
+
+    git file1 in new branch
+
+[33mcommit b4cd5073a3ccdd879ea217d1434419fb8b5b5031[m
+Author: pravin <psshirwadkar@gmail.com>
+Date:   Sun Oct 13 17:35:24 2024 +0530
+
+    testfile1
